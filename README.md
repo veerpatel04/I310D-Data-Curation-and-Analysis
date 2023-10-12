@@ -29,8 +29,13 @@ List of top international men's football goalscorers by country (Wikipedia Page)
 There will not be any biases in the data because of the fact that these are publicly known numbers and they have been verified. But one possible source for discrepancies in the data is that it comes from Wikipedia, which means that anyone could have edited it and put in the wrong number.
 
 Rank: Rank of the player on the list (Type: Integer)
+
 Player: Name of the player (Type: Object)
+
 Country: Nationality of the player (Type: Object)
+
 Goals: Number of International goals scored by the player (Type: Integer)
+
 Caps: Number of appearances made by the player for their country (Type: Integer)
+
 Ratio: Propotion of goals scored to matches played (Type: Float)
