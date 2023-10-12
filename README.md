@@ -9,6 +9,7 @@ BeautifulSoup: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 Requests: https://docs.python-requests.org/en/v2.9.1/
 NumPy: https://numpy.org/doc/
 SciPy: https://docs.scipy.org/doc/scipy/
+MatPlotLib: https://matplotlib.org/stable/index.html
 
 ## License
 
