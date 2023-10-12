@@ -5,10 +5,15 @@ The goal of this project is to scrape data from the web and create a comprehensi
 ## API Documentation
 
 Pandas: https://pandas.pydata.org/docs/
+
 BeautifulSoup: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
 Requests: https://docs.python-requests.org/en/v2.9.1/
+
 NumPy: https://numpy.org/doc/
+
 SciPy: https://docs.scipy.org/doc/scipy/
+
 MatPlotLib: https://matplotlib.org/stable/index.html
 
 ## License
